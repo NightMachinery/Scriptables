@@ -1,5 +1,8 @@
 // Variables used by Scriptable.
 // These must be at the very top of the file. Do not edit.
+// icon-color: teal; icon-glyph: magic;
+// Variables used by Scriptable.
+// These must be at the very top of the file. Do not edit.
 // icon-color: light-gray; icon-glyph: magic;
 // change "country" to a value from https://coronavirus-19-api.herokuapp.com/countries/
 const country = "Iran"
